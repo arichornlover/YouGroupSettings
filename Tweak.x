@@ -1,5 +1,5 @@
-#import <YouTubeHeader/YTIIcon.h>
-#import <YouTubeHeader/YTSettingsGroupData.h>
+#import "../YouTubeHeader/YTIIcon.h"
+#import "../YouTubeHeader/YTSettingsGroupData.h"
 #import <rootless.h>
 
 #define LOC(x) [tweakBundle localizedStringForKey:x value:nil table:nil]
